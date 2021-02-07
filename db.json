@@ -19,6 +19,11 @@
       "content": "thunk rocks!",
       "important": false,
       "id": 4
+    },
+    {
+      "content": "good ol connect",
+      "important": false,
+      "id": 5
     }
   ]
 }
